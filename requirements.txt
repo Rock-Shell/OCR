@@ -1,6 +1,6 @@
-import streamlit as st
-import pandas as pd
-import cv2
-from PIL import Image
-import numpy as np
-import pytesseract
+streamlit
+pandas
+cv2
+PIL
+numpy
+pytesseract
